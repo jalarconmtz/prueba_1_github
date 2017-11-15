@@ -1,1 +1,1 @@
-este es un archivo nuevo
+este es un archivo nuevo. manda error, porque lo estoy cambiando en local
